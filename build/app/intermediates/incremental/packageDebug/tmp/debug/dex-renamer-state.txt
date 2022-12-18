@@ -1,0 +1,4 @@
+#Sun Dec 18 17:23:37 UZT 2022
+base.0=D\:\\weatherapp_starter_project-main\\weatherapp_starter_project-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
